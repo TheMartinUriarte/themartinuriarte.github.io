@@ -78,3 +78,9 @@ a:hover {
   border: none;
   border-style: none;
   box-shadow: none; }
+
+/* -- Main -- */
+
+html {
+  background-color: purple;
+}
