@@ -91,7 +91,8 @@ a:hover {
 
 @media (max-width: 800px) {
   .wrapper {
-    
+    display: grid;
+    width: 100vw;
   }
 }
 
