@@ -1,6 +1,7 @@
 /* -- CSS Reset -- */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
 @import url("https://fonts.googleapis.com/css?family=Lora");
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -95,36 +96,6 @@ a:hover {
   background-image: url("../imgs/demoImage.jpg");
   background-position: center center;
   background-size: cover;
-}
-
-.two {
-  grid-column: 3 / 5;
-  grid-row: 1;
-}
-
-.three {
-  grid-column: 3 / 5;
-  grid-row: 2;
-}
-
-.four {
-  grid-column: 3 / 5;
-  grid-row: 3;
-}
-
-.five {
-  grid-column: 3 / 4;
-  grid-row: 4;
-}
-
-.six {
-  grid-column: 4 / 5;
-  grid-row: 4;
-}
-
-.seven {
-  grid-column: 4 / 5;
-  grid-row: 5;
 }
 
 /* -- Styling -- */
